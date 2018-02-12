@@ -42,7 +42,7 @@ for x in range (0,len(list)):
     
     filename = dir + "/" + city + ".csv"
 
-    with open(filename, 'a', newline='\n') as f:
+    with open(filename, 'a') as f:
         writer = csv.writer(f)
         writer.writerow(nextRow)
             
