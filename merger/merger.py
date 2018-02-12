@@ -3,6 +3,7 @@ import json
 import csv
 import datetime
 import sys
+import os
 
 base = "https://api.openweathermap.org/data/2.5/weather?"
 token = "&id=524901&APPID=0bf967b47593d3c2338685f71a747c86&units=metric"
@@ -11,6 +12,9 @@ def get(params):
   return requests.get(base + params + token).json()
 
 list=['dublin', 'carlow', 'cavan', 'cork', 'donegal', 'galway', 'roscommon', 'tipperary' ]
+dir = os.path.dirname(os.path.abspath(__file__))
+print(dir)
+
 
 for x in range (0,len(list)):
     city = list[x]
@@ -36,7 +40,7 @@ for x in range (0,len(list)):
 
     nextRow = [today, temp, -1, pressure, wind_speed, humidity];
     
-    filename = city + ".csv"
+    filename = dir + "/" + city + ".csv"
 
     with open(filename, 'a', newline='\n') as f:
         writer = csv.writer(f)
