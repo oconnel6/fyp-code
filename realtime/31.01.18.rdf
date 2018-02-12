@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:nodeID="N03e366c2a5254903865fd7fa9b9b05e9">
+    <ns1:WeatherOntology.owlhasAtmosphericPressure rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">998</ns1:WeatherOntology.owlhasAtmosphericPressure>
+    <ns1:WeatherOntology.owlhasExteriorTemperature rdf:datatype="http://www.w3.org/2001/XMLSchema#double">276.15</ns1:WeatherOntology.owlhasExteriorTemperature>
+    <ns1:WeatherOntology.owlhasLongitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-6.26</ns1:WeatherOntology.owlhasLongitude>
+    <ns1:WeatherOntology.owlhasCloudCover rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ns1:WeatherOntology.owlhasCloudCover>
+    <ns1:WeatherOntology.owlhasSpeed rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.3</ns1:WeatherOntology.owlhasSpeed>
+    <ns1:WeatherOntology.owlhasHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86</ns1:WeatherOntology.owlhasHumidity>
+    <ns1:WeatherOntology.owlhasLatitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">53.35</ns1:WeatherOntology.owlhasLatitude>
+  </rdf:Description>
+</rdf:RDF>
