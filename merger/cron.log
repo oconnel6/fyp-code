@@ -1,9 +1,6 @@
 /users/ugrad/oconnel6/fyp-code/merger
 Running for dublin
-Running for carlow
-Running for cavan
-Running for cork
-Running for donegal
-Running for galway
-Running for roscommon
-Running for tipperary
+Traceback (most recent call last):
+  File "/users/ugrad/oconnel6/fyp-code/merger/merger.py", line 27, in <module>
+    lat = weather["coord"]["lat"]
+KeyError: 'coord'
