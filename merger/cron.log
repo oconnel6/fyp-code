@@ -1,6 +1,0 @@
-/users/ugrad/oconnel6/fyp-code/merger
-Running for dublin
-Traceback (most recent call last):
-  File "/users/ugrad/oconnel6/fyp-code/merger/merger.py", line 27, in <module>
-    lat = weather["coord"]["lat"]
-KeyError: 'coord'
