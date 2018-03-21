@@ -5,12 +5,12 @@ import datetime
 import sys
 import os
 import time
+from rdflib import Graph, Literal, Namespace, URIRef
+from rdflib.namespace import FOAF, DC, OWL
 
 from csv_to_rdf import create_rdf
 
 # Set up directory
-#dir = os.path.dirname(os.path.abspath(__file__))
-# dir = "~/www"
 dir = os.path.expanduser('~/www')
 
 print("\n\nStarting Merger Script - " + datetime.datetime.now().strftime("%d-%m-%Y %H:%M"))
@@ -74,6 +74,42 @@ def write_results(weather_by_city):
         writer.writerow(row)
         print("Appended row to file for " + city)
 
+# Creates the rdf files from the csv files
+def create_rdf(list_of_cities):
+  for city in list_of_cities:
+
+    print("Creating rdf for " + city)
+
+    # Read in the CSV
+    with open(dir + '/data/csv/' + city + '.csv', 'rb') as csvfile:
+        reader = csv.DictReader(csvfile)
+        data = [row for row in reader]
+
+    # Create the RDF Graph
+    ontology = Namespace("https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl")
+    store = Graph()
+
+    # For each row (date) create a uri
+    for row in data:
+      city_and_date = URIRef("http://irishweather.oconnell.scss.tcd.ie/" + city + "/" + row["date"])
+
+      # unused
+      # store.add((weather, ontology.hasLatitude, Literal(lat)))
+      # store.add((weather, ontology.hasLongitude, Literal(lon)))
+      # store.add((weather, ontology.hasCloudCover, Literal(clouds)))
+
+      # Add the weather
+      store.add((city_and_date, ontology.hasExteriorTemperature, Literal(row["temp"])))
+      store.add((city_and_date, ontology.hasRain, Literal(row["rain"])))
+      store.add((city_and_date, ontology.hasAtmosphericPressure, Literal(row["pressure"])))
+      store.add((city_and_date, ontology.hasSpeed, Literal(row["wind_speed"])))
+      store.add((city_and_date, ontology.hasHumidity, Literal(row["humidity"])))
+    
+    # Create the RDF file.
+    store.serialize(dir + "/data/rdf/" + city + ".rdf", format="turtle", max_depth=3)
+
+    print("Finished creating RDF for " + city)
+
 
 ######################################################
 ##############       Main Program       ##############
@@ -83,9 +119,9 @@ def write_results(weather_by_city):
 not_fetched_cities = list_of_cities
 
 # While there is still cities we haven't fetched
-# and we haven't retried more than 10 times
+# and we haven't retried more than 20 times
 x = 0
-while len(not_fetched_cities) != 0 and x < 10:
+while len(not_fetched_cities) != 0 and x < 20:
   print("Have cities to fetch: " + str(not_fetched_cities))
 
   # Fetch the weather for those cities
