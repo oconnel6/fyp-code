@@ -8,8 +8,6 @@ import time
 from rdflib import Graph, Literal, Namespace, URIRef
 from rdflib.namespace import FOAF, DC, OWL
 
-from csv_to_rdf import create_rdf
-
 # Set up directory
 dir = os.path.expanduser('~/www')
 
