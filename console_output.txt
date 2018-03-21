@@ -564,3 +564,2699 @@ Creating rdf for carlow
 Finished creating RDF for carlow
 Creating rdf for tipperary
 Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 01:00
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Error fetching from API for donegal: 502 Bad Gateway
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set(['donegal'])
+Have cities to fetch: set(['donegal'])
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Appended row to file for donegal
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 01:10
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 01:20
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 01:30
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Error fetching from API for galway: 504 Gateway Time-out
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set(['galway'])
+Have cities to fetch: set(['galway'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Appended row to file for galway
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 01:40
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 01:50
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 02:00
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Error fetching from API for galway: 504 Gateway Time-out
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set(['galway'])
+Have cities to fetch: set(['galway'])
+Running for galway
+Error fetching from API for galway: 504 Gateway Time-out
+non fetched cities: set(['galway'])
+Have cities to fetch: set(['galway'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Appended row to file for galway
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 02:10
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 02:20
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 02:30
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Error fetching from API for donegal: 504 Gateway Time-out
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set(['donegal'])
+Have cities to fetch: set(['donegal'])
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Appended row to file for donegal
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 02:40
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 02:50
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 03:00
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Error fetching from API for donegal: 502 Bad Gateway
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set(['donegal'])
+Have cities to fetch: set(['donegal'])
+Running for donegal
+Error fetching from API for donegal: 502 Bad Gateway
+non fetched cities: set(['donegal'])
+Have cities to fetch: set(['donegal'])
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Appended row to file for donegal
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 03:10
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 03:20
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 03:30
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Error fetching from API for galway: 500 Internal Server Error
+Running for donegal
+Error fetching from API for donegal: 500 Internal Server Error
+Running for cavan
+Error fetching from API for cavan: 502 Bad Gateway
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for roscommon
+Appended row to file for tipperary
+Appended row to file for dublin
+Appended row to file for carlow
+Appended row to file for cork
+non fetched cities: set(['cavan', 'galway', 'donegal'])
+Have cities to fetch: set(['cavan', 'galway', 'donegal'])
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Appended row to file for cavan
+Appended row to file for galway
+Appended row to file for donegal
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 03:40
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 03:50
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 04:00
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Error fetching from API for donegal: 500 Internal Server Error
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set(['donegal'])
+Have cities to fetch: set(['donegal'])
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Appended row to file for donegal
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 04:10
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 04:20
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 04:30
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Error fetching from API for galway: 500 Internal Server Error
+Running for donegal
+Error fetching from API for donegal: 500 Internal Server Error
+Running for cavan
+Error fetching from API for cavan: 502 Bad Gateway
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for roscommon
+Appended row to file for tipperary
+Appended row to file for dublin
+Appended row to file for carlow
+Appended row to file for cork
+non fetched cities: set(['cavan', 'galway', 'donegal'])
+Have cities to fetch: set(['cavan', 'galway', 'donegal'])
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Appended row to file for cavan
+Appended row to file for galway
+Appended row to file for donegal
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 04:40
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 04:50
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 05:00
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Error fetching from API for galway: 502 Bad Gateway
+Running for donegal
+Error fetching from API for donegal: 502 Bad Gateway
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for tipperary
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for cork
+non fetched cities: set(['galway', 'donegal'])
+Have cities to fetch: set(['galway', 'donegal'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Appended row to file for galway
+Appended row to file for donegal
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 05:10
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 05:20
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 05:30
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Error fetching from API for cavan: 502 Bad Gateway
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set(['cavan'])
+Have cities to fetch: set(['cavan'])
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Appended row to file for cavan
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 05:40
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 05:50
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 06:00
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Error fetching from API for donegal: 500 Internal Server Error
+Running for cavan
+Error fetching from API for cavan: 502 Bad Gateway
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for dublin
+Appended row to file for tipperary
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for cork
+non fetched cities: set(['cavan', 'donegal'])
+Have cities to fetch: set(['cavan', 'donegal'])
+Running for cavan
+Error fetching from API for cavan: 502 Bad Gateway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Appended row to file for donegal
+non fetched cities: set(['cavan'])
+Have cities to fetch: set(['cavan'])
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Appended row to file for cavan
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 06:10
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 06:20
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 06:30
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Error fetching from API for galway: 500 Internal Server Error
+Running for donegal
+Error fetching from API for donegal: 502 Bad Gateway
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for tipperary
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for cork
+non fetched cities: set(['galway', 'donegal'])
+Have cities to fetch: set(['galway', 'donegal'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Error fetching from API for donegal: 502 Bad Gateway
+Appended row to file for galway
+non fetched cities: set(['donegal'])
+Have cities to fetch: set(['donegal'])
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Appended row to file for donegal
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 06:40
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 06:50
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 07:00
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Error fetching from API for cavan: 500 Internal Server Error
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Error fetching from API for cork: 502 Bad Gateway
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for dublin
+Appended row to file for tipperary
+Appended row to file for roscommon
+Appended row to file for carlow
+non fetched cities: set(['cavan', 'cork'])
+Have cities to fetch: set(['cavan', 'cork'])
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for cork
+Valid response received from API
+Created next row object for cork
+Appended row to file for cavan
+Appended row to file for cork
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 07:10
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 07:20
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 07:30
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Error fetching from API for galway: 500 Internal Server Error
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Error fetching from API for cavan: 502 Bad Gateway
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for donegal
+Appended row to file for dublin
+Appended row to file for tipperary
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for cork
+non fetched cities: set(['cavan', 'galway'])
+Have cities to fetch: set(['cavan', 'galway'])
+Running for cavan
+Error fetching from API for cavan: 502 Bad Gateway
+Running for galway
+Valid response received from API
+Created next row object for galway
+Appended row to file for galway
+non fetched cities: set(['cavan'])
+Have cities to fetch: set(['cavan'])
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Appended row to file for cavan
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 07:40
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 07:50
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 08:00
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Error fetching from API for galway: 502 Bad Gateway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set(['galway'])
+Have cities to fetch: set(['galway'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Appended row to file for galway
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 08:10
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 08:20
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 08:30
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Error fetching from API for galway: 500 Internal Server Error
+Running for donegal
+Error fetching from API for donegal: 502 Bad Gateway
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for tipperary
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for cork
+non fetched cities: set(['galway', 'donegal'])
+Have cities to fetch: set(['galway', 'donegal'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Appended row to file for galway
+Appended row to file for donegal
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 08:40
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
+
+
+Starting Merger Script - 21-03-2018 08:50
+Have cities to fetch: set(['galway', 'donegal', 'cavan', 'dublin', 'cork', 'roscommon', 'carlow', 'tipperary'])
+Running for galway
+Valid response received from API
+Created next row object for galway
+Running for donegal
+Valid response received from API
+Created next row object for donegal
+Running for cavan
+Valid response received from API
+Created next row object for cavan
+Running for dublin
+Valid response received from API
+Created next row object for dublin
+Running for cork
+Valid response received from API
+Created next row object for cork
+Running for roscommon
+Valid response received from API
+Created next row object for roscommon
+Running for carlow
+Valid response received from API
+Created next row object for carlow
+Running for tipperary
+Valid response received from API
+Created next row object for tipperary
+Appended row to file for galway
+Appended row to file for donegal
+Appended row to file for cavan
+Appended row to file for dublin
+Appended row to file for cork
+Appended row to file for roscommon
+Appended row to file for carlow
+Appended row to file for tipperary
+non fetched cities: set([])
+Successfully completed for all counties
+Creating rdf for galway
+Finished creating RDF for galway
+Creating rdf for donegal
+Finished creating RDF for donegal
+Creating rdf for cavan
+Finished creating RDF for cavan
+Creating rdf for dublin
+Finished creating RDF for dublin
+Creating rdf for cork
+Finished creating RDF for cork
+Creating rdf for roscommon
+Finished creating RDF for roscommon
+Creating rdf for carlow
+Finished creating RDF for carlow
+Creating rdf for tipperary
+Finished creating RDF for tipperary
