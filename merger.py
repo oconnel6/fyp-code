@@ -9,7 +9,9 @@ import time
 from csv_to_rdf import create_rdf
 
 # Set up directory
-dir = os.path.dirname(os.path.abspath(__file__))
+#dir = os.path.dirname(os.path.abspath(__file__))
+# dir = "~/www"
+dir = os.path.expanduser('~/www')
 
 print("\n\nStarting Merger Script - " + datetime.datetime.now().strftime("%d-%m-%Y %H:%M"))
 
@@ -97,8 +99,8 @@ while len(not_fetched_cities) != 0 and x < 10:
   
   print("non fetched cities: " + str(not_fetched_cities))
 
-  # Wait 1 minute to try again
-  time.sleep(6)
+  # Wait 30 seconds to try again
+  time.sleep(30)
   x = x + 1
 
 if (len(not_fetched_cities) != 0):

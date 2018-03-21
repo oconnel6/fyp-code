@@ -1,8 +1,10 @@
 import csv
+import os
 from rdflib import Graph, Literal, Namespace, URIRef
 from rdflib.namespace import FOAF, DC, OWL
 
 # list_of_cities = set(['dublin', 'carlow', 'cavan', 'cork', 'donegal', 'galway', 'roscommon', 'tipperary' ])
+dir = os.path.expanduser('~/www')
 
 def create_rdf(list_of_cities):
   for city in list_of_cities:
@@ -10,7 +12,7 @@ def create_rdf(list_of_cities):
     print("Creating rdf for " + city)
 
     # Read in the CSV
-    with open('data/csv/' + city + '.csv', 'rb') as csvfile:
+    with open(dir + '/data/csv/' + city + '.csv', 'rb') as csvfile:
         reader = csv.DictReader(csvfile)
         data = [row for row in reader]
 
@@ -35,6 +37,6 @@ def create_rdf(list_of_cities):
       store.add((city_and_date, ontology.hasHumidity, Literal(row["humidity"])))
     
     # Create the RDF file.
-    store.serialize("data/rdf/" + city + ".rdf", format="turtle", max_depth=3)
+    store.serialize(dir + "/data/rdf/" + city + ".rdf", format="turtle", max_depth=3)
 
     print("Finished creating RDF for " + city)
